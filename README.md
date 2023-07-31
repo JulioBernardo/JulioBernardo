@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I'm a front-end developer. Studying Software Engineering (5/8). At the moment I'm deepening my knowledge in JavaScript languages along with React and NextJS13 and the Tailwind CSS framework. Currently, I work as an intern at the UTFPR-CP communication agency.</h2>
+<h2 align="left">I'm a FullStack developer. Studying Software Engineering (5/8). At the moment I'm deepening my knowledge in JavaScript languages along with React and NextJS13 and the Tailwind CSS framework. Currently, I work as an intern at the UTFPR-CP communication agency.</h2>
 
 ###
 
