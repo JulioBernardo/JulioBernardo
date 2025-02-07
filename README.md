@@ -16,7 +16,7 @@
 
 <h2 align="left">Main Projects</h2>
 
-- 🏫 **[ELLP - Ensino Lúdico de Lógica e Programação](https://github.com/SeuRepositorio)**  
+- 🏫 **[ELLP - Ensino Lúdico de Lógica e Programação](https://github.com/willkersv/ellp-oficina)**  
   A full-stack system for managing student volunteers and generating certificates.
 
 - 🏢 **[Organizational Structure System](https://github.com/SeuRepositorio)**  
@@ -54,10 +54,7 @@
 <h2 align="left">Let's connect!</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/juliocbleite" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
