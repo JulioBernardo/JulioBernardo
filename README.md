@@ -6,11 +6,24 @@
 
 ###
 
-<h2 align="left">I'm a FullStack developer. Studying Software Engineering (5/8). At the moment I'm deepening my knowledge in JavaScript languages along with React and NextJS13 and the Tailwind CSS framework. Currently, I work as an intern at the UTFPR-CP communication agency.</h2>
+<h2 align="left">I'm a FullStack developer. Studying Software Engineering (7/8). Currently, I'm deepening my knowledge in Java, Spring Boot, React, and cloud architectures. I have experience in process automation using Python and have led RPA projects. I work at Sicredi Paranapanema Serrana in the areas of Innovation and Change Management.</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2020 :P<br>📚 I'm currently learning React and the Tailwind CSS framework</p>
+<p align="left">✨ Creating bugs since 2020 :P<br>🚀 Currently working on microservices architecture projects<br>📚 Learning Spring Boot, Kubernetes, and advanced React concepts</p>
+
+###
+
+<h2 align="left">Main Projects</h2>
+
+- 🏫 **[ELLP - Ensino Lúdico de Lógica e Programação](https://github.com/SeuRepositorio)**  
+  A full-stack system for managing student volunteers and generating certificates.
+
+- 🏢 **[Organizational Structure System](https://github.com/SeuRepositorio)**  
+  A tool to visualize and manage hierarchical relationships within an organization.
+
+- 🛍️ **[E-commerce API](https://github.com/SeuRepositorio)**  
+  A microservices-based project for user and product management.
 
 ###
 
@@ -19,21 +32,32 @@
 ###
 
 <div align="left">    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
 </div>
 
 ###
+
+<h2 align="left">Let's connect!</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
