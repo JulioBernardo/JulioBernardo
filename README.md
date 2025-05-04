@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I'm a FullStack developer. Studying Software Engineering (7/8). Currently, I'm deepening my knowledge in Java, Spring Boot, React, and cloud architectures. I have experience in process automation using Python and have led RPA projects. I work at Sicredi Paranapanema Serrana in the areas of Innovation and Change Management.</h2>
+<h2 align="left">I'm a FullStack developer. Studying Software Engineering (8/8). Currently, I'm deepening my knowledge in Java, Spring Boot, React, and cloud architectures. I have experience in process automation using Python and have led RPA projects. I work at Sicredi Paranapanema Serrana in the areas of Innovation and Change Management.</h2>
 
 ###
 
